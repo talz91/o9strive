@@ -18,7 +18,7 @@ except ImportError:
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 TEMPLATE_FILE = Path(__file__).parent / "BBU_UAT_Dashboard.html"
-OUTPUT_FILE   = Path(__file__).parent / "BBU_UAT_Dashboard.html"
+OUTPUT_FILE = Path(__file__).parent / "index.html"
 
 # ── NAME MAP ──────────────────────────────────────────────────────────────────
 NAME_MAP = {
